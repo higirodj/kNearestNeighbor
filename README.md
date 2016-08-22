@@ -1,6 +1,8 @@
 # kNearestNeighbor
 I. kNN algorithm implementation in Python.
+
 II. File list: kNN.py, iris.training.data.txt, iris.names.txt
+
 III. Command line arguments in order to run the kNN implementation:
 
     ./kNN.py 
